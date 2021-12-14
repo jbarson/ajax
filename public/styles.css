@@ -1,0 +1,14 @@
+body {
+  padding: 30px;
+  font-family: avenir;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+details {
+  width: 250px;
+}
